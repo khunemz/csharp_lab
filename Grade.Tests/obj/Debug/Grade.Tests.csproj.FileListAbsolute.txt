@@ -1,0 +1,8 @@
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\bin\Debug\Grade.Tests.dll
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\bin\Debug\Grade.Tests.pdb
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\obj\Debug\Grade.Tests.dll
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\obj\Debug\Grade.Tests.pdb
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\bin\Debug\Grade.exe
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\bin\Debug\Grade.pdb
+C:\Users\chuti\OneDrive\เอกสาร\Visual Studio 2015\Projects\Grade\Grade.Tests\obj\Debug\Grade.Tests.csprojResolveAssemblyReference.cache
